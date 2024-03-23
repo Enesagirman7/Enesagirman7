@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **python and data analysis**
 
+- 🌱 I want to learn **Swift**
+
 - 💬 Ask me about **enesarman7@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
